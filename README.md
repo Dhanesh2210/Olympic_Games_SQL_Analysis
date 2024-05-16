@@ -1,4 +1,5 @@
-<img src="olympics_logo.jpg" alt="Olympics Logo" style="width:500px;"/>
+<img src="olympics_logo.jpg" alt="Olympics Logo" style="width: 500px; display: block; margin: auto;" />
+
 # Analyzing Olympic Data: An Introduction
 
 ## Introduction
@@ -27,6 +28,14 @@ The dataset used in this analysis comprises two primary tables:
 - **`noc`**: The National Olympic Committee code.
 - **`region`**: The name of the country or region.
 - **`notes`**: Additional notes or historical context about the NOC.
+
+## Data Collection
+
+The dataset was sourced from Kaggle, a popular platform for data science and machine learning datasets. The data was collected and compiled from various sources, including historical records from the International Olympic Committee (IOC).
+
+You can access and download the dataset from the following link:
+
+[Kaggle Olympics Dataset](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 ## Data Cleaning Process
 
