@@ -1,3 +1,4 @@
+![Olympics Logo](olympics_logo.png)
 # Analyzing Olympic Data: An Introduction
 
 ## Introduction
