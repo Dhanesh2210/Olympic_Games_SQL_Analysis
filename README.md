@@ -1,4 +1,4 @@
-<img src="olympics_logo.jpg" alt="Olympics Logo" style="width:150px;"/>
+<img src="olympics_logo.jpg" alt="Olympics Logo" style="width:500px;"/>
 # Analyzing Olympic Data: An Introduction
 
 ## Introduction
